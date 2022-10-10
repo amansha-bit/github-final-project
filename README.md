@@ -1,2 +1,8 @@
-# github-final-project
-this is created by M AMAN SHAH for learning git and its uses and how to use git to store our projects
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*rrojects
